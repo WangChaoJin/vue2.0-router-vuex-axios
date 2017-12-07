@@ -1,6 +1,6 @@
 
 # 技术栈
-vue2.0+router+vuex+axios+less+es6
+vue2.0+router+vuex+axios+less+es6+webpack2.x
 
 # 运行
 如果安装了git客户端，可直接右键打开 Bash Here 进行克隆
@@ -14,4 +14,6 @@ npm install: 安装依赖
 npm run dev：运行项目
 
 npm run build：打包项目
+
+node 6.x 版本以上
 
