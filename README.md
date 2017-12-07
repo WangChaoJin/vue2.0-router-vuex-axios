@@ -2,7 +2,7 @@
 # 技术栈
 vue2.0+router+vuex+axios+less+es6
 
-#运行
+# 运行
 如果安装了git客户端，可直接右键打开 Bash Here 进行克隆
 地址：git@github.com:WangChaoJin/vue2.0-router-vuex-axios.git yourProjectName
 
